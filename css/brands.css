@@ -76,6 +76,14 @@ button:hover,
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+/* Amazon */
+.button.button-amazon {
+  color: #111111;
+  background-color: #FF9900 }
+.button.button-amazon:hover,
+.button.button-amazon:focus {
+  filter: brightness(90%) }
+
 /* Discord */
 .button.button-discord {
   color: #FFFFFF;
@@ -243,4 +251,3 @@ button:hover,
 .button.button-youtube:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
-
